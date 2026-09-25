@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.pclass {
+    background-color: rgb(255, 167, 167);
+    color: black;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#second {
+    color: rgb(15, 138, 209);
+    font-size: 36px
+}
+
+.plcass.third {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: rgb(78, 247, 86);
+    font-weight: bold;
+    font-size: 24px;
+}
